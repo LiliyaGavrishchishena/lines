@@ -1,0 +1,15 @@
+/*
+   Import partials below
+*/
+@import './normalize';
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+.element {
+  height: 100%;
+  display: inline-block;
+}
